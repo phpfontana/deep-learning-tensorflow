@@ -17,20 +17,22 @@ The tutorials in this repository cover a wide range of topics, including:
 - Artificial Neural Network
 
 **2. Computer Vision**
-- Convolutional Neural Network
-- Residual Network
-- Landmark Detection
+- Convolutional Neural Network (CNN)
+- Very Deep Convolutional Network (VGG)
+- Residual Network (ResNet)
 - Object Detection
-- Semantic Segmentation
-- Face Recognition
 - Neural Style Transfer
 
 **3. Sequence Models**
-- Recurrent Neural Network
-- Long Short Term Memory
-- Gated Recurrent Unit 
-- Bidirectional Recurrent Neural Network
-- Transformer
+- Recurrent Neural Network (RNN)
+- Long Short Term Memory (LSTM)
+- Gated Recurrent Unit (GRU)
+
+**4. Natural Language Processing**
+
+**5. Recommender System**
+
+**6. Generative Models**
 
 ## Getting Started
 
