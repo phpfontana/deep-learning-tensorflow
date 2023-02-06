@@ -14,8 +14,7 @@ The tutorials in this repository cover a wide range of topics, including:
 
 **1. Basics**
 - TensorFlow Fundamentals
-- Linear Regression
-- Artificial Neural Networks
+- Artificial Neural Network
 
 **2. Computer Vision**
 - Convolutional Neural Network
