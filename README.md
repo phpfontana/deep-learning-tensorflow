@@ -6,7 +6,7 @@ This repository contains tutorial code on deep learning using TensorFlow. It cov
 To follow along with this tutorial, you will need the following:
 
 - Basic knowledge of deep learning concepts and Python programming
-- A computer with a recent version of PyTorch installed
+- A computer with a recent version of TensorFlow installed
 
 
 ## Table of Contents
